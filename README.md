@@ -17,9 +17,9 @@
 ## ⚙️ How to Run
 1. copy all my code 
 2. Install requirements
-=> speechrecognition
-   pyttsx3
-   pywhatkit
+=> speechrecognition,
+   pyttsx3,
+   pywhatkit,
    flask
 3. Run main.py
 4. And give command and check
