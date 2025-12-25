@@ -1,33 +1,30 @@
-🌟 Features
-🎤 Voice Recognition using Google Speech API
+# Jarvis - Python Voice Assistant
 
-🗣️ Text-to-Speech with gTTS and playsound
+## 🚀 Features
+- Voice command support
+- Time & date response
+- Play YouTube videos
+- Tell jokes
+- WhatsApp message automation
 
-🔎 Smart Commands:
+## 🛠️ Tech Stack
+- Python
+- speech_recognition
+- pyttsx3 / gTTS
+- pywhatkit
+- Flask (if used)
 
-play <song> – Plays a song on YouTube
+## ⚙️ How to Run
+1. copy all my code 
+2. Install requirements
+=> speechrecognition
+   pyttsx3
+   pywhatkit
+   flask
+3. Run main.py
+4. And give command and check
+5. Any kind of problem contact with me 
 
-time – Tells the current time
 
-who is <person> – Fetches summary from Wikipedia
-
-tell me a joke – Responds with a joke using pyjokes
-
-open youtube/google/chatgpt – Opens websites in the browser
-
-stop or exit – Gracefully stops the assistant
-
-🌐 Flask Web Interface:
-
-Dark-themed UI with glowing mic icon animation
-
-Real-time log updates of commands and Jarvis' responses
-
-Shows assistant status and command history
-
-⚙️ Runs voice thread in the background using Python threading
-
-🖥️ Technologies Used
-Python (Flask, gTTS, SpeechRecognition, PyWhatKit, PyJokes, Wikipedia)
-
-HTML5 + CSS3 (Dark UI theme)
+## 👨‍💻 Author
+Dhananjay Behera
