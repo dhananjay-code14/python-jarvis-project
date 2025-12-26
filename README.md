@@ -10,7 +10,8 @@ It can perform tasks like telling time, playing YouTube videos, telling jokes, a
 • Play YouTube videos ▶️  
 • Tell jokes 😄  
 • WhatsApp message automation 💬  
-• Optional HTML frontend using Flask 🌐  
+• Optional HTML frontend using Flask 🌐 
+• Open Application
 
 🛠️ Technologies Used  
 • Python 🐍  
