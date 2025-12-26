@@ -1,31 +1,48 @@
-# Jarvis - Python Voice Assistant
+🤖 Python Jarvis Project
 
-## 🚀 Features
-- Voice command support
-- Time & date response
-- Play YouTube videos
-- Tell jokes
-- WhatsApp message automation
+📝 Description  
+Jarvis is a Python-based voice assistant that works on voice commands.  
+It can perform tasks like telling time, playing YouTube videos, telling jokes, and sending WhatsApp messages.
 
-## 🛠️ Tech Stack
-- Python
-- speech_recognition
-- pyttsx3 / gTTS
-- pywhatkit
-- Flask (if used)
+✨ Features  
+• Voice command support 🎤  
+• Time and date response ⏰  
+• Play YouTube videos ▶️  
+• Tell jokes 😄  
+• WhatsApp message automation 💬  
+• Optional HTML frontend using Flask 🌐  
 
-## ⚙️ How to Run
-1. copy all my code 
-2. Install requirements
-=> speechrecognition,
-   pyttsx3,
-   pywhatkit,
-   flask
-3.render flask and html connect together
-4. Run main.py
-5. And give command and check
-6. Any kind of problem contact with me 
+🛠️ Technologies Used  
+• Python 🐍  
+• speech_recognition  
+• pyttsx3 or gTTS  
+• pywhatkit  
+• Flask  
 
+⚙️ How to Run  
 
-## 👨‍💻 Author
+1️⃣ Copy my code 
+
+2️⃣ Install required Python libraries  
+
+3️⃣ Connect HTML frontend with Flask  
+
+4️⃣ Run the main Python file  
+
+5️⃣ Open browser and access the local server  
+
+6️⃣ Give voice commands and test the assistant 🎧  
+
+🗣️ Example Commands  
+• What is the time  
+• Play song on YouTube  
+• Tell me a joke  
+• Send WhatsApp message  
+
+⚠️ Notes  
+• Microphone access is required  
+• Internet connection is required  
+• Python must be installed properly  
+
+👤 Author  
 Dhananjay Behera
