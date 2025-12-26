@@ -21,9 +21,10 @@
    pyttsx3,
    pywhatkit,
    flask
-3. Run main.py
-4. And give command and check
-5. Any kind of problem contact with me 
+3.render flask and html connect together
+4. Run main.py
+5. And give command and check
+6. Any kind of problem contact with me 
 
 
 ## 👨‍💻 Author
